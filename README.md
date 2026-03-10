@@ -25,4 +25,4 @@ This repository contains the complete end-to-end data science workflow for predi
 ## Deployed Application
 The final Streamlit application is deployed on Streamlit Community Cloud and is accessible to the public
 
-**Live Link:** 
+**Live Link: https://msis522--hw1---martin-guan.streamlit.app/
