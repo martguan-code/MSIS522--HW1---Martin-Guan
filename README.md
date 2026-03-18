@@ -16,13 +16,18 @@ This repository contains the complete end-to-end data science workflow for predi
 | `mlp_model.keras` |]The saved Keras Multi-Layer Perceptron neural network model
 
 ## How to Run Locally
+# Clone the repo
+git clone https://github.com/martguan-code/MSIS522--HW1---Martin-Guan---updated
 
-1. Clone this repository to your local machine using standard Git commands.
-2. Ensure you have Python installed, then install the required dependencies by running `pip install -r requirements.txt` in your terminal.
-3. Launch the application by executing the command `streamlit run app.py` in your terminal.
-4. Open the provided local URL (typically `http://localhost:8501`) in your web browser to interact with the dashboard.
+# Enter the folder
+cd MSIS522--HW1---Martin-Guan---updated
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the dashboard
+python -m streamlit run streamlit_app.py
+
 
 ## Deployed Application
-The final Streamlit application is deployed on Streamlit Community Cloud and is accessible to the public
-
-**Live Link: https://msis522--hw1---martin-guan.streamlit.app/
+can't DEPLOYED, please refer to the section: Run Locally
